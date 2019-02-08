@@ -1,0 +1,152 @@
+{
+  "properties" : {
+    "java.vendor" : "Oracle Corporation",
+    "username" : "admin",
+    "buildInfo.env.USER" : "iwashita",
+    "sun.java.launcher" : "SUN_STANDARD",
+    "buildInfo.env.JAVA_MAIN_CLASS_2002" : "org.codehaus.plexus.classworlds.launcher.Launcher",
+    "sun.management.compiler" : "HotSpot 64-Bit Tiered Compilers",
+    "os.name" : "Mac OS X",
+    "buildInfo.env.PATH" : "/usr/bin:/bin:/usr/sbin:/sbin",
+    "buildInfo.env.LOGNAME" : "iwashita",
+    "sun.boot.class.path" : "/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/jre/classes",
+    "java.vm.specification.vendor" : "Oracle Corporation",
+    "java.runtime.version" : "1.8.0_192-b12",
+    "user.name" : "iwashita",
+    "guice.disable.misplaced.annotation.check" : "true",
+    "buildInfo.env.TMPDIR" : "/var/folders/3q/c_ntw5794wn34t2f1z1mzstc0000gn/T/",
+    "buildnumber" : "1",
+    "user.language" : "ja",
+    "sun.boot.library.path" : "/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/jre/lib",
+    "classworlds.conf" : "/Users/iwashita/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf3365336984307917636.tmp",
+    "url" : "http://hirofuminomacbook-pro.local:8081",
+    "java.version" : "1.8.0_192",
+    "user.timezone" : "Asia/Tokyo",
+    "sun.arch.data.model" : "64",
+    "http.nonProxyHosts" : "local|*.local|169.254/16|*.169.254/16",
+    "java.endorsed.dirs" : "/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/jre/lib/endorsed",
+    "sun.cpu.isalist" : "",
+    "sun.jnu.encoding" : "UTF-8",
+    "file.encoding.pkg" : "sun.io",
+    "file.separator" : "/",
+    "java.specification.name" : "Java Platform API Specification",
+    "buildInfo.env.Apple_PubSub_Socket_Render" : "/private/tmp/com.apple.launchd.kHc1zg9u8X/Render",
+    "java.class.version" : "52.0",
+    "user.country" : "JP",
+    "java.home" : "/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/jre",
+    "buildInfo.env.JAVA_STARTED_ON_FIRST_THREAD_863" : "1",
+    "java.vm.info" : "mixed mode",
+    "os.version" : "10.14.2",
+    "path.separator" : ":",
+    "java.vm.version" : "25.192-b12",
+    "java.awt.printerjob" : "sun.lwawt.macosx.CPrinterJob",
+    "sun.io.unicode.encoding" : "UnicodeBig",
+    "buildInfo.env.APP_ICON_863" : "../Resources/Eclipse.icns",
+    "awt.toolkit" : "sun.lwawt.macosx.LWCToolkit",
+    "buildInfo.env.SHELL" : "/bin/bash",
+    "socksNonProxyHosts" : "local|*.local|169.254/16|*.169.254/16",
+    "ftp.nonProxyHosts" : "local|*.local|169.254/16|*.169.254/16",
+    "buildInfo.env.HOME" : "/Users/iwashita",
+    "user.home" : "/Users/iwashita",
+    "java.specification.vendor" : "Oracle Corporation",
+    "java.library.path" : "/Users/iwashita/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.",
+    "java.vendor.url" : "http://java.oracle.com/",
+    "buildInfo.env.XPC_FLAGS" : "0x0",
+    "java.vm.vendor" : "Oracle Corporation",
+    "gopherProxySet" : "false",
+    "maven.home" : "/Users/iwashita/git/jfrog-maven/EMBEDDED",
+    "java.runtime.name" : "Java(TM) SE Runtime Environment",
+    "sun.java.command" : "org.codehaus.plexus.classworlds.launcher.Launcher -B clean deploy -Durl=http://hirofuminomacbook-pro.local:8081 -Dusername=admin -Dpassword=P@ssw0rd -Dbuildnumber=1",
+    "java.class.path" : "/Users/iwashita/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.10.0.20181127-2120/jars/plexus-classworlds-2.5.2.jar",
+    "java.vm.specification.name" : "Java Virtual Machine Specification",
+    "java.vm.specification.version" : "1.8",
+    "sun.cpu.endian" : "little",
+    "sun.os.patch.level" : "unknown",
+    "buildInfo.env.SSH_AUTH_SOCK" : "/private/tmp/com.apple.launchd.DISpYj1m7f/Listeners",
+    "java.io.tmpdir" : "/var/folders/3q/c_ntw5794wn34t2f1z1mzstc0000gn/T/",
+    "java.vendor.url.bug" : "http://bugreport.sun.com/bugreport/",
+    "maven.multiModuleProjectDirectory" : "/Users/iwashita/git/jfrog-maven",
+    "buildInfoConfig.propertiesFile" : "/private/var/folders/3q/c_ntw5794wn34t2f1z1mzstc0000gn/T/buildInfo2213342658555792892.properties",
+    "buildInfo.env.__CF_USER_TEXT_ENCODING" : "0x1F5:0x1:0xE",
+    "os.arch" : "x86_64",
+    "java.awt.graphicsenv" : "sun.awt.CGraphicsEnvironment",
+    "java.ext.dirs" : "/Users/iwashita/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java",
+    "user.dir" : "/Users/iwashita/git/jfrog-maven",
+    "line.separator" : "\n",
+    "java.vm.name" : "Java HotSpot(TM) 64-Bit Server VM",
+    "file.encoding" : "utf-8",
+    "buildInfo.env.DISPLAY" : "/private/tmp/com.apple.launchd.WnhH6G7HOJ/org.macosforge.xquartz:0",
+    "buildInfo.env.XPC_SERVICE_NAME" : "org.eclipse.platform.ide.9736",
+    "java.specification.version" : "1.8"
+  },
+  "version" : "1.0.1",
+  "name" : "Maven Artifactoryé£æº",
+  "number" : "1549595543485",
+  "type" : "MAVEN",
+  "buildAgent" : {
+    "name" : "Maven",
+    "version" : "3.5.3"
+  },
+  "agent" : {
+    "name" : "Maven",
+    "version" : "3.5.3"
+  },
+  "started" : "2019-02-08T12:12:25.102+0900",
+  "durationMillis" : 4961,
+  "licenseControl" : {
+    "runChecks" : true,
+    "includePublishedArtifacts" : false,
+    "autoDiscover" : true,
+    "licenseViolationRecipients" : [ "build@organisation.com" ],
+    "scopes" : [ "compile,runtime" ],
+    "scopesList" : "compile,runtime ",
+    "licenseViolationsRecipientsList" : "build@organisation.com "
+  },
+  "buildRetention" : {
+    "count" : -1,
+    "deleteBuildArtifacts" : true,
+    "buildNumbersNotToBeDiscarded" : [ ]
+  },
+  "modules" : [ {
+    "properties" : {
+      "project.build.sourceEncoding" : "UTF-8"
+    },
+    "id" : "iwashita.example:jfrog-maven:0.0.1-SNAPSHOT",
+    "artifacts" : [ {
+      "type" : "jar",
+      "sha1" : "5d2e43b9a1fce549dd42c1f35fe10f7ce675ed1a",
+      "md5" : "7270f22838c0ab675add31acd93c67b9",
+      "name" : "jfrog-maven-0.0.1-SNAPSHOT.jar"
+    }, {
+      "type" : "javadoc-jar",
+      "sha1" : "8b4cfbe4f0373f7316a82b8dbdb50762591a7cb1",
+      "md5" : "69fe17815b3b5224e69f523f1ce8c634",
+      "name" : "jfrog-maven-0.0.1-SNAPSHOT-javadoc.jar"
+    }, {
+      "type" : "java-source-jar",
+      "sha1" : "a03ef67da5c2a01b7b90b98ec4f88ac720da25db",
+      "md5" : "32c905cb1724f5f70a5ed7765c703b7b",
+      "name" : "jfrog-maven-0.0.1-SNAPSHOT-sources.jar"
+    }, {
+      "type" : "pom",
+      "sha1" : "86f423b705661a93cf311275319134ee270a3420",
+      "md5" : "0f920705582bbdc9f8357b4707432871",
+      "name" : "jfrog-maven-0.0.1-SNAPSHOT.pom"
+    } ],
+    "dependencies" : [ {
+      "type" : "jar",
+      "sha1" : "99129f16442844f6a4a11ae22fbbee40b14d774f",
+      "md5" : "1f40fb782a4f2cf78f161d32670f7a3a",
+      "id" : "junit:junit:3.8.1",
+      "scopes" : [ "test" ]
+    } ]
+  } ],
+  "governance" : {
+    "blackDuckProperties" : {
+      "runChecks" : false,
+      "includePublishedArtifacts" : false,
+      "autoCreateMissingComponentRequests" : false,
+      "autoDiscardStaleComponentRequests" : false
+    }
+  }
+}
