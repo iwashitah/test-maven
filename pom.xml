@@ -96,7 +96,7 @@
                 <snapshotRepoKey>libs-snapshot-local</snapshotRepoKey>
               </publisher>
               <buildInfo>
-                <buildName>Maven Artifactory連携</buildName>
+                <buildName>Maven Artifactory Plugin Integration</buildName>
                 <!--
                 <buildNumber>${buildnumber}</buildNumber>
    	        <buildUrl>${url}/artifactory/webapp/builds/Maven Artifactory連携/${buildnumber}</buildUrl>
