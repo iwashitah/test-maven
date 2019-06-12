@@ -11,6 +11,6 @@ public class Hello {
 	 * @throws Exception 例外
 	 */
 	public static void main(String [] args) throws Exception {
-		System.out.println("Maven Artifactoryプラグイン連携 " + args[0]);
+		System.out.println("Maven Artifactory Plugin Integration" + args[0]);
 	}
 }
