@@ -7,10 +7,23 @@ package iwashita.example.hello;
 public class Hello {
 	/**
 	 * メインメソッド
-	 * @param args 標準出力用文字列
+	 * @param args 標準入力用文字列
 	 * @throws Exception 例外
 	 */
-	public static void main(String [] args) throws Exception {
-		System.out.println("Maven Artifactory Plugin Integration" + args[0]);
-	}
+  public static void main(String[] args) throws Exception {
+    String candidate = args[0];
+    String hashed = BCrypt.hashpw(candidate, BCrypt.gensalt(12));
+
+    BCrypt.checkpw(candidate, hashed);
+
+    filterXMLSignature();
+  }
+
+  private static void filterXMLSignature() {
+    byte[] bytes = new byte[256];
+
+    new MultipartStream(new ByteArrayInputStream(bytes), bytes);
+
+    new XMLSignatureInput(bytes).addNodeFilter(null);
+  }
 }
