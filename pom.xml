@@ -97,8 +97,8 @@
               </publisher>
               <buildInfo>
                 <buildName>Maven Artifactory Plugin Integration</buildName>
-                <buildNumber>${buildnumber}</buildNumber>
-   	            <buildUrl>${url}/artifactory/webapp/builds/Maven Artifactory Plugin Integration/${buildnumber}</buildUrl>
+                <buildNumber>${buildNumber}</buildNumber>
+   	            <buildUrl>${url}/artifactory/webapp/builds/Maven Artifactory Plugin Integration/${buildNumber}</buildUrl>
               </buildInfo>
               <licenses>
                 <autoDiscover>true</autoDiscover>
