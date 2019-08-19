@@ -224,7 +224,7 @@
       </snapshots>
       <id>central</id>
       <name>bintray</name>
-      <url>http://jcenter.bintray.com</url>
+      <url>${url}/artifactory/libs-release</url>
     </repository>
   </repositories>
   <pluginRepositories>
@@ -234,7 +234,7 @@
       </snapshots>
       <id>central</id>
       <name>bintray-plugins</name>
-      <url>http://jcenter.bintray.com</url>
+      <url>${url}/artifactory/libs-release</url>
     </pluginRepository>
   </pluginRepositories>
   <distributionManagement>
