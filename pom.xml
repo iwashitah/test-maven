@@ -210,7 +210,7 @@
           </descriptorRefs>
           <archive>
             <manifest>
-              <mainClass>com.srcclr.Main</mainClass>
+              <mainClass>iwashita.example.hello.Hello</mainClass>
             </manifest>
           </archive>
         </configuration>
